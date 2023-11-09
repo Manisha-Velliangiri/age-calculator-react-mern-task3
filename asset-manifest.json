@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/age-calculator-react-mern-task3/static/css/main.fc5c2c69.css",
+    "main.js": "/age-calculator-react-mern-task3/static/js/main.25d10b55.js",
+    "index.html": "/age-calculator-react-mern-task3/index.html",
+    "main.fc5c2c69.css.map": "/age-calculator-react-mern-task3/static/css/main.fc5c2c69.css.map",
+    "main.25d10b55.js.map": "/age-calculator-react-mern-task3/static/js/main.25d10b55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.25d10b55.js"
+  ]
+}
